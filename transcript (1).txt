@@ -1,18 +1,1 @@
-Paola C (1/17/2023, 3:07:21 PM): Hello Virginia. An agent will be with you shortly. 
-Paola C (1/17/2023, 3:07:56 PM): Hello Virginia! Thank you for contacting Coursera! My name is Paola and I'll be happy to assist you! 
-Paola C (1/17/2023, 3:08:25 PM): I understand you are contacting us since you cant watch the course videos, am I correct? 
-Virginia (1/17/2023, 3:09:08 PM): Yes 
-Paola C (1/17/2023, 3:09:44 PM): I am sorry to know that you have been experiencing issues watching your videos, can you let me know what error do you see and could you share a screenshot as well please? 
-Virginia (1/17/2023, 3:09:52 PM): i can log in to the course but I can't watch the videos 
-Virginia (1/17/2023, 3:11:02 PM): Yes, just a minute. Thanks 
-Paola C (1/17/2023, 3:12:08 PM): Sure :) 
-Paola C (1/17/2023, 3:15:39 PM): Thank you Virginia 
-Paola C (1/17/2023, 3:15:45 PM): Please allow me 1-2 minutes to verify the information 
-Virginia (1/17/2023, 3:16:10 PM): Thank you 
-Paola C (1/17/2023, 3:19:56 PM): Thanks for your patience while I looked into this for you. I deeply apologize for the inconvenience. I can confirm this is a technical issue. I've gone ahead and filed a bug report to our engineering team in order to have this matter resolved as soon as possible. 
-Paola C (1/17/2023, 3:20:02 PM): Thanks once again for reporting this to us. We recommend checking back again within the next business days. 
-Paola C (1/17/2023, 3:20:47 PM): In the meantime, I would like to know if there's something else I may do for you today? 
-Paola C (1/17/2023, 3:23:37 PM): Are you still there? I'm here if you need help! 
-Virginia (1/17/2023, 3:25:08 PM): ok thank you for your help Paola 
-Paola C (1/17/2023, 3:25:25 PM): It was a pleasure to assist you!! Thank you for chatting with us today!!! Once this chat ends, you will see a quick survey. If you have a moment, we would love to hear your feedback :) 
-Paola C (1/17/2023, 3:25:32 PM): Take care Virginia, bye! 
+
